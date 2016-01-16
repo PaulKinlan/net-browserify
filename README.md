@@ -1,3 +1,5 @@
+**Note:** This repo is not maintained, please use [chrome-net](https://github.com/feross/chrome-net) instead.
+
 net-chromeify
 =====================
 
